@@ -1,0 +1,2 @@
+201, Simple Fries, Small, $0.99, Medium, $1.29, Large, $1.49&132
+202, Curly Fries,  Small, $1.99, Medium, $2.50, Large, $3.29&16
