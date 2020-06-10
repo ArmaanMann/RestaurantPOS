@@ -1,1 +1,1 @@
-301, Coke, Small, $0.99, Medium, $1.19, Large, $1.39&9
+301, Coke, Small, $0.99, Medium, $1.19, Large, $1.39&8
